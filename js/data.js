@@ -31,7 +31,7 @@ var JSONBingo = {"squares": [
         {"square": "Unvollst&auml;ndiger Vergleich"},
         {"square": "(Fehl)-interpretation der Intention"},
         {"square": "Ignoratio elenchi"},
-        {"square": "Moral high groun"},
+        {"square": "Moral high ground"},
         {"square": "Natura-listischer Fehlschluss"},
         {"square": "Post hoc ergo propter hoc"},
         {"square": "Beweis durch Wiederholung"},
