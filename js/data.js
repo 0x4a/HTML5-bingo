@@ -1,6 +1,6 @@
 var headerText = "Mailinglisten Bingo";
 
-var footerText = "<a href='https://github.com/hdznrrd/HTML5-bingo/' target='_blank'>This version's code available on github</a><br/><a href='https://github.com/jeffehobbs/HTML5-bingo/' target='_blank'>Original code available on github</a><br/><a href='http://www.bruhaha.de/laws.html' target='_blank'>Manche Begriffe stammen aus den Usenet-Laws</a>";
+var footerText = "<a href='https://github.com/hdznrrd/HTML5-bingo/' target='_blank'>This version's code available on github</a><br/><a href='https://github.com/jeffehobbs/HTML5-bingo/' target='_blank'>Original code available on github</a><br/><a href='http://www.bruhaha.de/laws.html' target='_blank'>Manche Begriffe stammen aus den Usenet-Laws</a><br/><a href='https://en.wikipedia.org/wiki/List_of_logical_fallacies' target='_blank'>Wikipedia: List of logical fallacies</a>";
 
 var winText = "Winner";
 
