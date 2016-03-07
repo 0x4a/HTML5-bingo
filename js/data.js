@@ -55,6 +55,9 @@ var JSONBingo = {"squares": [
         {"square": "Wer ist denn Verantwortlich"},
         {"square": "Rehctschreibung"},  // absichtsvoller Schreibfehler
         {"square": "So hab ich das nicht gesagt"},
-        {"square": "Fr&uuml;her haben wir das auch so gemacht"}
+        {"square": "Fr&uuml;her haben wir das auch so gemacht"},
+        {"square": "Confirmation Bias"},
+        {"square": "tu quoque"},
+        {"square": "Mereologischer Fehlschluss"}
     ]
 };
