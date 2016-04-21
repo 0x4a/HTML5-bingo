@@ -58,6 +58,8 @@ var JSONBingo = {"squares": [
         {"square": "Fr&uuml;her haben wir das auch so gemacht"},
         {"square": "Confirmation Bias"},
         {"square": "tu quoque"},
-        {"square": "Mereologischer Fehlschluss"}
+        {"square": "Mereologischer Fehlschluss"},
+        {"square": "Argument ad temperantiam"}, // übersetzt als: siehe nächste Zeile
+        {"square": "Schiedrichter-Fehlschluss"}
     ]
 };
