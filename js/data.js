@@ -33,7 +33,8 @@ var JSONBingo = {"squares": [
         {"square": "Ignoratio elenchi"},
         {"square": "Moral high ground"},
         {"square": "Natura-listischer Fehlschluss"},
-        {"square": "Post hoc ergo propter hoc"},
+        {"square": "Post hoc, ergo propter hoc"}, 
+        {"square": "Cum hoc, ergo propter hoc"},
         {"square": "Beweis durch Wiederholung"},
         {"square": "Argumentum verbosium"},
         {"square": "Berufung auf Emotionen"},
@@ -60,6 +61,7 @@ var JSONBingo = {"squares": [
         {"square": "tu quoque"},
         {"square": "Mereologischer Fehlschluss"},
         {"square": "Argument ad temperantiam"}, // übersetzt als: siehe nächste Zeile
-        {"square": "Schiedrichter-Fehlschluss"}
+        {"square": "Schiedrichter-Fehlschluss"},
+        {"square": "Guilt by Association"}
     ]
 };
