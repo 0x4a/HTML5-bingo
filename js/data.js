@@ -62,6 +62,7 @@ var JSONBingo = {"squares": [
         {"square": "Mereologischer Fehlschluss"},
         {"square": "Argument ad temperantiam"}, // übersetzt als: siehe nächste Zeile
         {"square": "Schiedrichter-Fehlschluss"},
-        {"square": "Guilt by Association"}
+        {"square": "Guilt by Association"},
+        {"square": "Argument ex silentio"}  // http://www.hoheluft-magazin.de/2016/08/na-logisch-das-argument-ex-silentio/
     ]
 };
