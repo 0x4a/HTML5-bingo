@@ -14,6 +14,7 @@ var JSONBingo = {"squares": [
         {"square": "Vorstand soll entscheiden"},
         {"square": "Da gibt es einen Beschluss"},
         {"square": "Ad hominem"},
+        {"square": "Ad personam"},
         {"square": "Moving the goalposts"},
         {"square": "Anekdotische Evidenz"},
         {"square": "Berufung auf Wahrscheinlich-keit"},
