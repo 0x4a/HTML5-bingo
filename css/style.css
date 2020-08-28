@@ -116,6 +116,38 @@ body {
     background-color: red;
 }
 
+#foundsave h1 {
+    margin-top: 1em;
+}
+  
+#foundsave {
+  text-align: center;
+}
+#foundsave .button {
+  display: inline-block;
+  border: 1px solid #888;
+  border-radius: 6px;
+  padding: 0.3em 1.5em;
+  margin: 2em 1em;
+  cursor: pointer;
+}
+  
+#foundsave .button.yes {
+  background-color: #95D195;
+}
+
+#foundsave .button.yes:hover {
+  background-color: #5CB85C;
+}
+
+#foundsave .button.no {
+  background-color: #E68F8D;
+}
+
+#foundsave .button.no:hover {
+  background-color: #D9534F;
+}
+
 @media only screen 
 and (min-device-width : 320px) 
 and (max-device-width : 480px) {
